@@ -1,2 +1,1 @@
-data merge entity @s {PickupDelay:20,Motion:[0.0,0.3,0.0],Item:{id:"netherite_chestplate"}}
-summon item ~ ~ ~ {Item:{id:"elytra",count:1},PickupDelay:20,Motion:[0.0,0.3,0.0],Tags:["phantomwings.split"]}
+data merge entity @s {Item:{components:{"minecraft:max_damage":592,"minecraft:item_name":'{"translate":"item.minecraft.netherite_chestplate"}'}}}
